@@ -60,7 +60,7 @@ app.delete("/api/notes/:id", function(req, res) {
     res.json(savedNotes);
 })
 
-app.listen(3050, () => {
+app.listen(process.env.PORT || 3050, () => {
     console.log(`API server now on port 3050!`);
     // console.log(notes);
 });
