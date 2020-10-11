@@ -23,7 +23,8 @@ Express.js
 
 ### Installing/Using
 ```
-Once you have the necessary files, to get started simply run the app.js file and answer the prompt questions!
+Once you have the necessary files, to get started simply run the server.js file and visit localhost:3050.
+or click [HERE](https://fast-ridge-68104.herokuapp.com)
 
 ```
 
