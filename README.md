@@ -2,7 +2,7 @@
 
 This is a simple note taking app that allows the user to track their ideas or tasks for the day.
 
-![img](https://github.com/cdehek/team-profile-generator/blob/develop/assets/demoimg.PNG?raw=true)
+![img](https://github.com/cdehek/note-taker/blob/develop/Develop/public/assets/images/demoimg.PNG)
 
 <a href="https://drive.google.com/file/d/1DN1E28PEXEVphrsGWu6-tqCdvZfczdFx/view">
 
@@ -24,8 +24,6 @@ Express.js
 ### Installing/Using
 ```
 Once you have the necessary files, to get started simply run the app.js file and answer the prompt questions!
-
-You can also visit this link to see it in action: 
 
 ```
 
